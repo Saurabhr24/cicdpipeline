@@ -1,0 +1,2 @@
+created other instances but the problem is same , public ip  {13.233.53.214 }is not working in browser but the public ipv4 dns ip {ec2-13-233-53-214.ap-south-1.compute.amazonaws.com} is working . why it is so ? 
+not able to find the solution

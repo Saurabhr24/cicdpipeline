@@ -1,1 +1,0 @@
-created other instances but the problem is same , public ip is nt working in browser but the public dns ip in working 
